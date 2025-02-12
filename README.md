@@ -1,1 +1,1 @@
-# bootstrap4_project
+Green Haven is a modern and visually appealing website dedicated to plant lovers. Built with HTML, CSS, and Bootstrap, it offers an immersive experience for exploring various plant types, care tips, and expert recommendations. Whether you're a gardening enthusiast or a beginner, Green Haven provides everything you need to nurture your green space.
