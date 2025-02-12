@@ -1,0 +1,44 @@
+body {
+    scroll-behavior: smooth;
+    font-family: 'Arial', sans-serif;
+    background-color: #eef5e1;
+    color: #2d3e2f;
+}
+
+.navbar {
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.hero {
+    height: 60vh;
+    background: url('https://source.unsplash.com/1600x900/?plants,nature') center/cover no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+}
+
+.plant-box {
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+}
+
+.plant-box:hover {
+    transform: scale(1.05);
+}
+
+.care-box {
+    background: #4caf50;
+    color: white;
+    border-radius: 5px;
+    padding: 15px;
+    font-weight: bold;
+    transition: background 0.3s;
+}
+
+.care-box:hover {
+    background: #388e3c;
+}
